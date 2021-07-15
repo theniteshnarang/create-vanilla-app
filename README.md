@@ -1,8 +1,10 @@
 # create-vanilla-app
 
 ## Vanilla JS App starter pack with modern tools
+
+## Installation
 ```
-- npx degit thenitesnarang/create-vanilla-app yourAppName
+- npx degit theniteshnarang/create-vanilla-app yourAppName
 - cd yourAppName
 - npm intall
 - npm run start
@@ -17,6 +19,9 @@
 - CSS Loader
 - Code Splitting
 - Route Based Code Splitting
+
+## Upcoming Features
+- Hot Reload
 
 
 
