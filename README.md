@@ -10,7 +10,7 @@
 - npm run start
 ```
 
-## features
+## Features
 - Import/Export
 - Minification
 - Hashing
@@ -22,6 +22,7 @@
 
 ## Upcoming Features
 - Hot Reload
+- Eslint Support
 
 
 
