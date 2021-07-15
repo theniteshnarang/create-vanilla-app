@@ -4,10 +4,10 @@
 
 ## Installation
 ```
-- npx degit theniteshnarang/create-vanilla-app yourAppName
-- cd yourAppName
-- npm intall
-- npm run start
+npx degit theniteshnarang/create-vanilla-app yourAppName
+cd yourAppName
+npm intall
+npm run start
 ```
 
 ## Features
