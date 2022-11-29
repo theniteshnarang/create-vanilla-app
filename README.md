@@ -6,7 +6,7 @@
 ```
 npx degit theniteshnarang/create-vanilla-app yourAppName
 cd yourAppName
-npm intall
+npm install
 npm run start
 ```
 
